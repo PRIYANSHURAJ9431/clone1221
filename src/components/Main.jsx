@@ -24,8 +24,8 @@ function Main() {
                 <div className='Main-syllabus'>
                     <div style={{
                         marginLeft: '50px',
-                        marginBottom: "14px",
-                        marginTop: "40px"
+                        marginBottom: "5px",
+                        marginTop: "30px"
                     }}><b >
                             Syllabus wise Analysis</b></div>
 
