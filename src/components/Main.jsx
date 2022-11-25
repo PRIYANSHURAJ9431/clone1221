@@ -4,6 +4,7 @@ import "../styles/Main.scss"
 import Test from './Test'
 import Stat from './Stat'
 import BarCard from './BarCard'
+import Graph from './Graph'
 
 function Main() {
     return (
@@ -17,7 +18,9 @@ function Main() {
                 <div className='Main-stat'>
                     <Stat />
                 </div>
-                <div className='Main-compare'></div>
+                <div className='Main-compare'>
+                    <Graph />
+                </div>
 
             </div>
             <div className='Main-right'>
